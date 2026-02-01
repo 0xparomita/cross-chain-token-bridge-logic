@@ -1,0 +1,8 @@
+{
+  "name": "cross-chain-token-bridge-logic",
+  "version": "1.0.0",
+  "description": "Simplified Lock/Mint bridge logic for EVM chains",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
